@@ -1,3 +1,7 @@
+DOCS/PROJECTS.md
+DOCS/PROJECTS_LOCAL.md
+readme.logs.txt
+.idea
 # Logs
 logs
 *.log
@@ -102,3 +106,15 @@ dist
 
 # TernJS port file
 .tern-port
+letwhois
+plainedit
+letwhois
+flatedit
+plainedit
+reactphp
+apidsl
+letwhois
+flatedit
+plainedit
+reactphp
+apidsl

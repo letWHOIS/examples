@@ -1,0 +1,5 @@
+https://github.com/letwhois/bash.git letwhois
+https://github.com/flatedit/bash.git flatedit
+https://github.com/plainedit/bash.git plainedit
+https://github.com/reactphp/dns reactphp
+https://github.com/apidsl/bash apidsl
