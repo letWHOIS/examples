@@ -2,12 +2,28 @@
 ## Install letwhois [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/letwhois/examples/edit/main/DOCS/INSTALL.md)
 
 ### START
+
 ```bash
 ./apifork.sh
-./readme.sh
+```
+
+### CONTRIBUTION
+
+Install dependencies after created project
+```bash
+curl -O https://raw.githubusercontent.com/apifork/bash/main/apifork.sh
+echo "apifork.txt" > ".apifork"
+echo "" > "apifork.txt"
+```
+
+Update documentation
+
+```bash
+ ./readme.sh
 ```
 
 ### install
+[minsungson/GitHub-cURL: A guide to installing files from GitHub repos in terminal using cURL](https://github.com/minsungson/GitHub-cURL)
 
 ```bash
 ./apifork.sh install
